@@ -1,0 +1,21 @@
+.container > .menu > .title {
+  color: black !important;
+  font-size: larger !important;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+a {
+  text-decoration: none;
+  text-transform: uppercase !important;
+  color: rgb(35, 35, 199) !important;
+  font-size: small !important;
+}
+
+a:hover {
+  text-decoration: none;
+  font-weight: bolder !important;
+  font-size: medium !important;
+}

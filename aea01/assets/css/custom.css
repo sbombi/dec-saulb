@@ -1,0 +1,14 @@
+body {
+  margin-top: 30px !important;
+}
+
+.container {
+  margin-top: 50px !important;
+}
+
+.container > .element > h3 {
+  color: black !important;
+}
+.container > .element > p {
+  color: rgb(35, 35, 199);
+}
